@@ -34,7 +34,7 @@ k3s-cluster/
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/k3s-cluster.git
+   git clone https://github.com/SvnSchmdt/k3s-cluster.git
    cd k3s-cluster
    ```
 
