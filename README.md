@@ -1,7 +1,6 @@
 # 🧩 K3s Cluster Setup
 
-This repository contains my personal setup for a lightweight [K3s](https://k3s.io/) Kubernetes cluster — perfect for self-hoste
-d apps, homelabs, and small-scale production environments.
+This repository contains my personal setup for a lightweight [K3s](https://k3s.io/) Kubernetes cluster — perfect for self-hosted apps, homelabs, and small-scale production environments.
 
 ## 🚀 Features
 
@@ -42,3 +41,7 @@ k3s-cluster/
 2. Run setup scripts or follow individual setup guides in each folder.
 
 3. Customize the configuration files to match your domain, Cloudflare API key, and app settings.
+
+## 📄 License
+
+MIT License. Feel free to use and adapt!
